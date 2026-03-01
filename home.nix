@@ -37,5 +37,10 @@
 				lazygit
 				tmux
 				rofi
+				nodejs
+        rustup
+        nixpkgs-fmt
+        go
+        unzip
 		];
 }
